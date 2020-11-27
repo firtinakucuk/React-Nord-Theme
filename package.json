@@ -1,7 +1,7 @@
 {
     "name": "react-nord-theme",
     "displayName": "React Nord Theme",
-    "description": "Adapted Nord Theme (almost) with the syntax highlighting of the examples in reactjs.org",
+    "description": "Adapted Nord Theme for VsCode, (almost) with the syntax highlighting of the examples in reactjs.org",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.51.0"
